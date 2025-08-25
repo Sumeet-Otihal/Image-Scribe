@@ -13,13 +13,10 @@ You are granted a limited, non-exclusive, non-transferable license to use this s
 
 You may NOT:
 
-Use this software for commercial purposes, including but not limited to selling, renting, leasing, or offering it as part of a paid service.
-
-Modify, adapt, translate, reverse engineer, decompile, or disassemble the software, in whole or in part.
-
-Redistribute, sublicense, republish, upload, or otherwise make the software available to third parties.
-
-Remove, obscure, or alter any copyright notices, trademarks, or disclaimers included in the software.
+- Use this software for commercial purposes, including but not limited to selling, renting, leasing, or offering it as part of a paid service.
+- Modify, adapt, translate, reverse engineer, decompile, or disassemble the software, in whole or in part.
+- Redistribute, sublicense, republish, upload, or otherwise make the software available to third parties.
+- Remove, obscure, or alter any copyright notices, trademarks, or disclaimers included in the software.
 
 3. Ownership
 
